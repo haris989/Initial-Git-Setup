@@ -13,3 +13,9 @@ git commit -m "commit message"
 
 #Push your changes
 git push -u origin master
+
+If you don't want to change anything in the master branch, you can create a new branch before staging:
+git checkout -b <branch_name>
+
+To push the changes made in this new branch,
+git push origin <branch_name>
