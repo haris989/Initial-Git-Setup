@@ -1,4 +1,5 @@
 # Initial-Git-Setup <br />
+Following are the ommands taught in git video available on youtube channel CodeWithHarry https://codewithharry.com/
 Contains commands for setting up a git repository <br />
 
 #Setup Username and Email <br />
