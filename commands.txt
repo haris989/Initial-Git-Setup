@@ -6,7 +6,7 @@ git config --global user.email harisalikhan13@gmail.com
 git remote add origin git@bitbucket.org:haris989/flaskapp-codewithharry.com.git
 
 #Stage your changes commit and push
-git add -A
+git add --a
 
 #Commit your changes
 git commit -m "commit message"
